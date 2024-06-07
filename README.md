@@ -1,10 +1,10 @@
 # FVG-imbalance-TradingView
 
-![TradingView Logo](./images/9485e913620577eff748a7b28f263a8b.jpg)
+<img src="./images/9485e913620577eff748a7b28f263a8b.jpg" alt="TradingView Logo" width="200">
 
 El indicador "FVG [bpuyol]" está diseñado para la plataforma TradingView, una herramienta popular entre traders e inversores para analizar gráficos de precios y tomar decisiones informadas. Este indicador está programado con Pine Script, el lenguaje de scripting de TradingView.
 
-![Pine Script Logo](./images/3bDPwu0m_400x400.jpg)
+<img src="./images/3bDPwu0m_400x400.jpg" alt="Pine Script Logo" width="200">
 
 ## ¿Qué es un Indicador en TradingView?
 
