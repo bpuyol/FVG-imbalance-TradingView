@@ -4,7 +4,7 @@
 
 El indicador "FVG [bpuyol]" está diseñado para la plataforma TradingView, una herramienta popular entre traders e inversores para analizar gráficos de precios y tomar decisiones informadas. Este indicador está programado con Pine Script, el lenguaje de scripting de TradingView.
 
-<img src="./images/3bDPwu0m_400x400.jpg" alt="Pine Script Logo" width="200">
+<img src="./images/3bDPwu0m_400x400.jpg" alt="Pine Script Logo" width="100">
 
 ## ¿Qué es un Indicador en TradingView?
 
